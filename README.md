@@ -1,6 +1,6 @@
 # AppNikksAndroidUtils
 
-![JitPack](https://img.shields.io/jitpack/v/github/sahibedu/AppNikksAndroidUtils?color=blue&label=Release)
+![JitPack](https://img.shields.io/jitpack/v/github/appnikks/AppNikksAndroidUtils?color=blue&label=Release)
 [![API](https://img.shields.io/badge/API-14%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
 
 
@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.PhilJay:MPAndroidChart:{RELEASE}'
+    implementation 'com.github.appnikks:AppNikksAndroidUtils:{RELEASE}'
 }
 ```
 
